@@ -1,4 +1,4 @@
----
+--access screen lock -
 title: "Developer setup"
 heading: "Set up your development environment"
 description: "Find out how to set up your development environment for building, running, and testing Mattermost."
